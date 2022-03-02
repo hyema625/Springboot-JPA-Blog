@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://localhost:3306/promedi?serverTimezone=Asia/Seoul
+    username: hyema625
+    password: Sook8806!
